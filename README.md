@@ -19,6 +19,6 @@
 4. Patients can no longer abuse the prescriptions given to them because the only way to get medication is through the governing body.
 
 ## Technology used
-Application development - JAVA 
-IDE used - Netbeans
-Version Control - Bitbucket 
+1. Application development - JAVA 
+2. IDE used - Netbeans
+3. Version Control - Bitbucket 
